@@ -1,7 +1,7 @@
 {
     "name": "FanThemeFCNantes",
     "description": "Unofficial fan-made Matomo theme inspired by FC Nantes, in canari yellow and green with a Stade de la Beaujoire background. Not affiliated with FC Nantes.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "theme": true,
     "stylesheet": "stylesheets/main.less",
     "require": {

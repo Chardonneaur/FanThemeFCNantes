@@ -1,3 +1,7 @@
+## 1.0.1
+
+- Republish to Matomo Marketplace (replaces archived ThemeFCNantes)
+
 ## 1.0.0
 
 - Initial release (renamed from ThemeFCNantes to FanThemeFCNantes)
